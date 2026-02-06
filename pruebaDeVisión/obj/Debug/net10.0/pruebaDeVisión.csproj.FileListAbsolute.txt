@@ -1,0 +1,14 @@
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\obj\Debug\net10.0\pruebaDeVisión.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\obj\Debug\net10.0\pruebaDeVisión.AssemblyInfoInputs.cache
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\obj\Debug\net10.0\pruebaDeVisión.AssemblyInfo.cs
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\obj\Debug\net10.0\pruebaDeVisión.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\bin\Debug\net10.0\pruebaDeVisión.exe
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\bin\Debug\net10.0\pruebaDeVisión.deps.json
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\bin\Debug\net10.0\pruebaDeVisión.runtimeconfig.json
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\bin\Debug\net10.0\pruebaDeVisión.dll
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\bin\Debug\net10.0\pruebaDeVisión.pdb
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\obj\Debug\net10.0\pruebaDeVisión.dll
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\obj\Debug\net10.0\refint\pruebaDeVisión.dll
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\obj\Debug\net10.0\pruebaDeVisión.pdb
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\obj\Debug\net10.0\pruebaDeVisión.genruntimeconfig.cache
+C:\Users\usuario\Videos\home-2\raiz-02.21\proyecto\pruebaDeVisión\obj\Debug\net10.0\ref\pruebaDeVisión.dll
